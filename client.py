@@ -3,7 +3,7 @@ import os
 import subprocess
 
 s = socket.socket()
-host = "192.168.1.7"
+host = ""
 port = 9999
 
 #here s.connect is like bind in server side
